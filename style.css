@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.block{
+    display: flex;
+justify-content: space-between;
+}
+.saveEditBtn{
+    display: none;
+}
+
